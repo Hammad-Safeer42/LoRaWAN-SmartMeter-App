@@ -50,7 +50,7 @@ The **LoRaWAN-SmartMeter-App** is Flutter based app for custom LoRaWAN smart met
 ## Screenshots
 
 ![1](images/1.png)
-
+![1](images/2.png)
 
 ---
 
@@ -88,8 +88,12 @@ The app follows a **Model-View-Controller (MVC)** architecture, ensuring a clear
 
 ---
 ## Figma Design
-This project is licensed under
 
+
+![1](images/4.png)
+![1](images/3.png)
+
+Here is link to Figma design Workspace:  [Figma design](https://www.figma.com/design/zj2X6oGE4MRHwRgvGyZYpa/Smart-Meter-App?node-id=0-1&t=KTJB96XEowiixOpz-1)
 ---
 
 ## License
