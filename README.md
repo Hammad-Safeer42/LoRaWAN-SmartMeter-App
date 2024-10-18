@@ -1,2 +1,8 @@
 # LoRaWAN-SmartMeter-App
-LoRaWAN-SmartMeter-App is a Flutter app connecting to smart meters via LoRaWAN. It provides real-time power data, predictive analytics, and secure Firebase authentication to help users monitor and manage energy usage.
+A Flutter app for custom LoRaWAN smart meters, fetching real-time power data from The Things Network via API. It offers consumption insights, predictive billing, downloadable reports, and energy usage monitoring to help users manage consumption effectively.
+
+
+
+
+
+
