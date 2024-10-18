@@ -111,8 +111,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or feedback, please contact:
 
 - **Name**: Hammad Safeer
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/hammad-safeer42/)
-- **GitHub**: [Your GitHub Profile](https://github.com/Hammad-Safeer42)
+- **LinkedIn**: [Hammad Safeer](https://www.linkedin.com/in/hammad-safeer42/)
+- **GitHub**: [GitHub Profile](https://github.com/Hammad-Safeer42)
 
 ---
 
