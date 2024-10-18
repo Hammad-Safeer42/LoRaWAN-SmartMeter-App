@@ -87,13 +87,16 @@ The app follows a **Model-View-Controller (MVC)** architecture, ensuring a clear
 - **Figma**: For UI/UX design (Design files available upon request).
 
 ---
+## Design Conception
+
+<img src="images/4.png" alt="concept Design" width="400" height="300">
+
 ## Figma Design
 
+<img src="images/3.png" alt="Figma Design" width="400" height="300">
 
-![1](images/4.png)
-![1](images/3.png)
 
-Here is link to Figma design Workspace:  [Figma design](https://www.figma.com/design/zj2X6oGE4MRHwRgvGyZYpa/Smart-Meter-App?node-id=0-1&t=KTJB96XEowiixOpz-1)
+Here is the link to Figma design Workspace:  [Figma design](https://www.figma.com/design/zj2X6oGE4MRHwRgvGyZYpa/Smart-Meter-App?node-id=0-1&t=KTJB96XEowiixOpz-1)
 ---
 
 ## License
