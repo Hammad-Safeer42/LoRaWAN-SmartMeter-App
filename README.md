@@ -49,7 +49,8 @@ The **LoRaWAN-SmartMeter-App** is Flutter based app for custom LoRaWAN smart met
 
 ## Screenshots
 
-*(Screenshots of the app's main screens and features can be added here.)*
+![1]()
+
 
 ---
 
