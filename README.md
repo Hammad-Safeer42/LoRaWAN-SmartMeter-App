@@ -1,4 +1,4 @@
-# Smart Meter App
+# LoRaWAN SmartMeter App
 
 [![Flutter](https://img.shields.io/badge/Flutter-Framework-blue)](https://flutter.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
