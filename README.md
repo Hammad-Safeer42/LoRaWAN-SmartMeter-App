@@ -6,26 +6,10 @@
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-orange)](https://firebase.google.com/)
 [![The Things Network](https://img.shields.io/badge/IoT-The%20Things%20Network-blueviolet)](https://www.thethingsnetwork.org/)
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Architecture](#architecture)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## Overview
 
-The **Smart Meter App** is a Flutter-based mobile application designed to interact with a custom-built smart meter device. The app provides users with real-time and historical power consumption data, making it easier to monitor and manage energy usage effectively. By leveraging LoRaWAN technology and integrating with The Things Network API, the app retrieves data from deployed smart devices and presents it in an intuitive and user-friendly interface.
+The **LoRaWAN-SmartMeter-App** is Flutter based app for custom LoRaWAN smart meters, fetching real-time power data from The Things Network via API. It offers consumption insights, predictive billing, downloadable reports, and energy usage monitoring to help users manage consumption effectively.
 
 ---
 
