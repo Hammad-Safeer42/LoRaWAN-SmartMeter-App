@@ -43,7 +43,7 @@ The **LoRaWAN-SmartMeter-App** is Flutter based app for custom LoRaWAN smart met
   - Data retrieval through The Things Network API.
 
 - **Availability**
-  - The app is available on the [Google Play Store](#) for easy access.
+  - The app is available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.smartmetering.app) for easy access.
 
 ---
 
@@ -62,35 +62,7 @@ The **LoRaWAN-SmartMeter-App** is Flutter based app for custom LoRaWAN smart met
 - **The Things Network Account**: Access to [The Things Network](https://www.thethingsnetwork.org/) for API integration.
 - **Android/iOS Device or Emulator**: To run and test the application.
 
-### Installation
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/smart-meter-app.git
-   cd smart-meter-app
-   ```
-
-2. **Install Dependencies**
-
-   ```bash
-   flutter pub get
-   ```
-
-3. **Configure Firebase**
-
-   - Replace the `google-services.json` file in `android/app/` with your own from your Firebase project.
-   - Replace the `GoogleService-Info.plist` file in `ios/Runner/` with your own.
-
-4. **Configure The Things Network API**
-
-   - Update the API endpoints and authentication keys in the app's configuration files.
-
-5. **Run the App**
-
-   ```bash
-   flutter run
-   ```
 
 ---
 
@@ -114,68 +86,8 @@ The app follows a **Model-View-Controller (MVC)** architecture, ensuring a clear
 - **Figma**: For UI/UX design (Design files available upon request).
 
 ---
-
-## Usage
-
-1. **Authentication**
-
-   - Open the app and sign up using your email and password.
-   - Firebase handles user authentication and session management.
-
-2. **Dashboard**
-
-   - View real-time power consumption data.
-   - Access widgets showing instantaneous power and units consumed.
-
-3. **Historical Data**
-
-   - Navigate to the graphs section to view daily, weekly, monthly, and yearly consumption.
-   - Analyze usage patterns and identify opportunities for energy savings.
-
-4. **Billing**
-
-   - Check the status of your current month's bill.
-   - Download the last month's bill and current month bill directly from the app.
-
-5. **Notifications**
-
-   - Enable daily consumption notifications in the settings to receive regular updates.
-
-6. **Settings**
-
-   - Customize app preferences and manage your account information.
-
----
-
-## Contributing
-
-We welcome contributions from the community to enhance the functionality and features of the Smart Meter App.
-
-1. **Fork the Repository**
-
-   Click on the "Fork" button at the top right corner of the repository page.
-
-2. **Create a Branch**
-
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-
-3. **Commit Your Changes**
-
-   ```bash
-   git commit -m "Add Your Feature"
-   ```
-
-4. **Push to the Branch**
-
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-
-5. **Create a Pull Request**
-
-   Open a pull request to the `main` branch of the original repository.
+## Figma Design
+This project is licensed under
 
 ---
 
@@ -189,11 +101,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or feedback, please contact:
 
-- **Name**: Your Name
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Name**: Hammad Safeer
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/hammad-safeer42/)
+- **GitHub**: [Your GitHub Profile](https://github.com/Hammad-Safeer42)
 
 ---
 
-*Note: This app is open-source to facilitate learning and encourage contributions. By sharing this project, we hope others can benefit from our work and help improve it further.*
+
