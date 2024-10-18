@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997766914590",
+    "project_id": "smart-metering-app",
+    "storage_bucket": "smart-metering-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997766914590:android:e6307c82b16ce31412c40f",
+        "android_client_info": {
+          "package_name": "com.smartmetering.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcrd8rORpVByr7fqhFR5iUzXpJIEu9Az8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
