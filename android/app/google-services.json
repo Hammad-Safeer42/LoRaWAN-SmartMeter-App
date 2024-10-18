@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:997766914590:android:e6307c82b16ce31412c40f",
+        "mobilesdk_app_id": "1:997766914590:android:exxxxxxxxxxxxxxxxxxx",
         "android_client_info": {
           "package_name": "com.smartmetering.app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCcrd8rORpVByr7fqhFR5iUzXpJIEu9Az8"
+          "current_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
         }
       ],
       "services": {
