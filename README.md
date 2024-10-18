@@ -90,11 +90,11 @@ The app follows a **Model-View-Controller (MVC)** architecture, ensuring a clear
 ---
 ## Design Conception
 
-<img src="images/4.png" alt="concept Design" width="500" height="300">
+<img src="images/4.png" alt="concept Design" width="500" height="350">
 
 ## Figma Design
 
-<img src="images/3.png" alt="Figma Design" width="500" height="300">
+<img src="images/3.png" alt="Figma Design" width="500" height="350">
 
 
 Here is the link to Figma design Workspace:  [Figma design](https://www.figma.com/design/zj2X6oGE4MRHwRgvGyZYpa/Smart-Meter-App?node-id=0-1&t=KTJB96XEowiixOpz-1)
