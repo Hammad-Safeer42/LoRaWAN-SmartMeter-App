@@ -66,17 +66,6 @@ The **LoRaWAN-SmartMeter-App** is Flutter based app for custom LoRaWAN smart met
 
 
 
----
-
-## Architecture
-
-The app follows a **Model-View-Controller (MVC)** architecture, ensuring a clear separation of concerns:
-
-- **Model**: Represents the data layer, including user data, power consumption records, and billing information.
-- **View**: The UI components built using Flutter widgets, providing a responsive and interactive user interface.
-- **Controller**: Handles the business logic, including API calls to The Things Network, data processing, and communication between the Model and View.
-
----
 
 ## Technologies Used
 
@@ -115,7 +104,5 @@ For any inquiries or feedback, please contact:
 - **GitHub**: [GitHub Profile](https://github.com/Hammad-Safeer42)
 
 ---
-
-If you liked the repo then kindly support it by giving it a star ⭐!
 
 Copyright (c) 2024 HAMMAD SAFEER
